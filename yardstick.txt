@@ -1,0 +1,97 @@
+E-commerce Store QA Data for RAG Implementation
+
+Product Categories and Descriptions
+
+Electronics: High-quality gadgets including smartphones, laptops, tablets, and smartwatches from top brands.
+
+Clothing: Trendy apparel for men, women, and kids, featuring seasonal collections and premium fabrics.
+
+Home Appliances: Durable and energy-efficient refrigerators, washing machines, ovens, and more.
+
+Beauty Products: Organic skincare, makeup kits, and grooming products.
+
+Sports Equipment: Fitness gear, sportswear, and accessories for all types of outdoor and indoor sports.
+
+Frequently Asked Questions (FAQs)
+
+General Questions
+
+Q: What are your delivery charges?
+
+A: Delivery is free for orders above $50. A $5 delivery fee applies for orders below $50.
+
+Q: What is the estimated delivery time?
+
+A: Standard delivery takes 3-5 business days, while express delivery takes 1-2 business days.
+
+Q: Do you ship internationally?
+
+A: Yes, we ship to selected countries with additional shipping charges based on the destination.
+
+Return and Refund Policy
+4. Q: What is your return policy?
+
+A: Items can be returned within 30 days of delivery if they are unused and in their original packaging.
+
+Q: How long does it take to process refunds?
+
+A: Refunds are processed within 7-10 business days after the returned item is received and inspected.
+
+Q: Can I exchange an item?
+
+A: Yes, exchanges are allowed within 30 days of purchase for items of equal or lesser value.
+
+Account and Payment
+7. Q: How can I create an account?
+
+A: Click on the "Sign Up" button and fill out the required details to create an account.
+
+Q: What payment methods do you accept?
+
+A: We accept credit/debit cards, PayPal, and digital wallets like Apple Pay and Google Pay.
+
+Q: Is my payment information secure?
+
+A: Yes, we use SSL encryption to ensure your payment information is secure.
+
+Product-Specific Questions
+10. Q: Are your electronics covered under warranty?
+- A: Yes, all electronics come with a one-year manufacturer warranty.
+
+Q: How can I check product availability?
+
+A: You can check availability on the product page. If out of stock, you can request a notification for restock.
+
+Discounts and Offers
+12. Q: Do you offer discounts for bulk purchases?
+- A: Yes, bulk orders are eligible for discounts. Please contact our support team for details.
+
+Q: How can I apply a coupon code?
+
+A: Enter the coupon code at checkout, and the discount will be applied to your order.
+
+Customer Support
+14. Q: How can I contact customer support?
+- A: You can reach us via email at support@store.com or call us at +1-800-555-0199.
+
+Q: Do you offer live chat support?
+
+A: Yes, live chat support is available from 9 AM to 9 PM, Monday to Friday.
+
+Sample Product Reviews
+
+Smartphone X Pro: “Great value for money. Sleek design and excellent performance.” – 5/5
+
+Winter Jacket: “Keeps me warm and fits perfectly. Worth every penny!” – 4.5/5
+
+Blender Pro 3000: “Powerful motor and easy to clean. Perfect for daily use.” – 4.8/5
+
+Shipping and Tracking
+
+Q: How do I track my order?
+
+A: After placing an order, you will receive a tracking number via email to monitor your shipment status.
+
+Q: Can I change my delivery address after placing an order?
+
+A: Yes, you can update your address within 24 hours of placing the order by contacting our support team.
