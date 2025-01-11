@@ -1,4 +1,3 @@
-# YardStick
 
 # RAG-Based QA Bot
 
